@@ -3,5 +3,5 @@ list_01 = [10, 'word', False, 2.789, None, 'Alex', -15, 0b100, 0o37, 0x1F, True,
 
 for n, item in enumerate(list_01, 1):
     print(f'{n}. {item:} - {type(item)}')
-
+# Конец программы.
 
