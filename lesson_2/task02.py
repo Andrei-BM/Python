@@ -2,7 +2,7 @@
 print('Введите элементы списка.')
 iteration = int(input('Количество элементов в списке: '))
 list01 = []
-while iteration: #Запращиваем элементы списка.
+while iteration: #Запрашиваем элементы списка.
     item = input()
     list01.append(item)
     iteration -= 1
